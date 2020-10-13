@@ -3,6 +3,10 @@
 This is a script using a pre-trained neural network (see [1]) to predict the perceived safety score of a certain place in a city.
 The NN model compares pairs of images and estimates which one is taken in the safest place. This information is then used to compute the TrueSkill score [2] using the TrueSkill package [3]. The results are then exported in the GeoJSON format [4].
 
+Another script allows to aggregate the data using rectangular tesselation, which gives a lower granularity, but also less noisy, visualization. Some sample tesselated data can be found in the ```tesselated_scores```folder. When visualized, these look for example as follows:
+
+[<img src="https://github.com/Streetwise/streetwise-score/blob/master/wiki_images/zurich_tessel.jpg" alt="Zurich tesselated" width="500px"/>](https://api.mapbox.com/styles/v1/colombmo/ckg0t167k2it219nyvvws0dov/draft.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29sb21ibW8iLCJhIjoiY2tlYTE5MmpvMTB6cTJxcm41Ynl1OTNxYSJ9.6SsIy1FTpxao9Sv-hvRDSg)
+
 ### Results
 
 Sample results can be found in the ```safety_scores``` folder. These can be easily visualized, for example using mapbox:
