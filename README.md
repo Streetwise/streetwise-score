@@ -7,7 +7,10 @@ The NN model compares pairs of images and estimates which one is taken in the sa
 
 Sample results can be found in the ```safety_scores``` folder. These can be easily visualized, for example using mapbox:
 
-- 
+- [<img src="https://github.com/Streetwise/streetwise-score/blob/master/wiki_images/romanshorn.png" alt="Romanshorn" width="500px"/>](https://api.mapbox.com/styles/v1/colombmo/ckesny6m30o9019p97rv594qx.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29sb21ibW8iLCJhIjoiY2tlYTE5MmpvMTB6cTJxcm41Ynl1OTNxYSJ9.6SsIy1FTpxao9Sv-hvRDSg)
+- [<img src="https://github.com/Streetwise/streetwise-score/blob/master/wiki_images/luzern.png" alt="Luzern" width="500px"/>](https://api.mapbox.com/styles/v1/colombmo/ckeskgshq764k19o21zu3l7fw.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29sb21ibW8iLCJhIjoiY2tlYTE5MmpvMTB6cTJxcm41Ynl1OTNxYSJ9.6SsIy1FTpxao9Sv-hvRDSg)
+- [<img src="https://github.com/Streetwise/streetwise-score/blob/master/wiki_images/stgallen.png" alt="St. Gallen" width="500px"/>](https://api.mapbox.com/styles/v1/colombmo/ckesiukh124lb19mt27xeg56r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29sb21ibW8iLCJhIjoiY2tlYTE5MmpvMTB6cTJxcm41Ynl1OTNxYSJ9.6SsIy1FTpxao9Sv-hvRDSg)
+- [<img src="https://github.com/Streetwise/streetwise-score/blob/master/wiki_images/schaffhausen.png" alt="Schaffhausen" width="500px"/>](https://api.mapbox.com/styles/v1/colombmo/cketssk0r91th19qq2l9jcd3h/draft.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY29sb21ibW8iLCJhIjoiY2tlYTE5MmpvMTB6cTJxcm41Ynl1OTNxYSJ9.6SsIy1FTpxao9Sv-hvRDSg)
 
 
 ### References
